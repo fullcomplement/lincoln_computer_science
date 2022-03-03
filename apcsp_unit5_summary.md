@@ -17,6 +17,7 @@ Examples:
 
 *Multirotor*  
 ![multirotoer](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OnyxStar_XENA-8F_coax_foldable_and_pliable_drone.jpg/220px-OnyxStar_XENA-8F_coax_foldable_and_pliable_drone.jpg)
+
 Harmful effects: flying in unregulated zones is illegal and dangerous, privacy
 concerns 
 Benefits: deliveries, find lost people, aerial photography made easier
