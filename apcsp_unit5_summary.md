@@ -10,13 +10,16 @@ can both bring benefits and harm to the world. The way things are done is often
 changed based upon those innovations. Not every outcome of a programmer's
 creation will be thought out but how it's received will be different from person
 to person. Innovations in the world of computing often bring changes to other
-places in the world as well such as in health or art.  
+places in the world as well benefit a variety of different fields such as in health
+or art.  
 
 Examples:  
 
 *Multirotor*  
+![multirotoer](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/OnyxStar_XENA-8F_coax_foldable_and_pliable_drone.jpg/220px-OnyxStar_XENA-8F_coax_foldable_and_pliable_drone.jpg)
 Harmful effects: flying in unregulated zones is illegal and dangerous, privacy
-concerns Benefits: deliveries, find lost people, aerial photography made easier
+concerns 
+Benefits: deliveries, find lost people, aerial photography made easier
 
 *Wii Controller*  
 Benefits: gets people playing video games
