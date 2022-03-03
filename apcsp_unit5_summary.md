@@ -25,7 +25,7 @@ concerns
 Benefits: deliveries, find lost people, aerial photography made easier
 
 *Wii Controller*  
-Benefits: gets people playing video games
+Benefits: gets people playing video games  
 Harmful Effects: Broken TVs and injuries
 
 ### Daily Video 2
