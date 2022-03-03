@@ -4,6 +4,7 @@
 ### Daily Video 1
 
 Summary:  
+
 Innovations or new technology discoveries through computer programming
 can both bring benefits and harm to the world. The way things are done is often
 changed based upon those innovations. Not every outcome of a programmer's
@@ -12,6 +13,7 @@ to person. Innovations in the world of computing often bring changes to other
 places in the world as well such as in health or art.  
 
 Examples:  
+
 *Multirotor*  
 Harmful effects: flying in unregulated zones is illegal and dangerous, privacy
 concerns Benefits: deliveries, find lost people, aerial photography made easier
@@ -25,6 +27,7 @@ Harmful Effects: Broken TVs and injuries
 Key Terms: Internet, Dopamine, Social Media, Microtransaction,
 
 Summary:  
+
 When a programmer creates things, they often have an intended audience
 and purpose to fulfill but this purpose can also be taken multiple steps
 further. With that, their creation can be used in a way they never intended it
@@ -78,6 +81,7 @@ innovations as a way of combating existing human biases
    Example: Netflix; acquires lots of data (mainly explicit data)
 
    **Explicit Data**: thumbnails, name, address, etc.  
+
    **Implicit Data**: types of shows you watch, genres, etc.
 
 **Bias**: Netflix exclusives (shows only produced by Netflix); encourages you to
@@ -134,6 +138,7 @@ This video is about the legal and ethical concerns of computing. Some of these
 concern stems from others copying original work and presenting it as their own.
 
 Key Terms:   
+
 **Intellectual Property**: A work or invention that is the result of creativity
 which the one who created it has a right to.
 
@@ -163,7 +168,7 @@ information that was already submitted in a website because all the information 
 been stored in the website. Everyone from Google to the government sees what you're
 doing and to know if what you're doing is harmful to them or illegal. 
 
-*Search history* let’s some of people who own the website know what you’re trying to find and put up
+**Search history** let’s some of people who own the website know what you’re trying to find and put up
 advertisements to get your attention on their products. The Internet is full of data
 collection: some which are useful such as an online job application or school enrollment form, but
 sometimes it could be used for the wrong purposes, to steal your
@@ -214,7 +219,8 @@ gain another level of authentication and security
 
 #### Virus and Malware
 
-Key Terms:  
+Key Terms:
+
 **Virus**: Malicious programs that copy themselves and gain access
 to systems without authorization
 
@@ -233,7 +239,8 @@ Once legitimate access to a system is gained, it is important to
 ensure data sent to and from the system remains
 uncompromised
 
-Key Terms:  
+Key Terms:
+
 **Encryption**: the process of encoding data to prevent
 unauthorized access
 
@@ -254,7 +261,8 @@ decrypt data
 - A receiver’s private key is required to decrypt a message
 - Impossible to crack this encryption without the second private key
 
-** Digital Certificates**
+**Digital Certificates**
+
 - Issued to validate ownership of those keys
 - Linked to places where data is stored (websites)
 - Can be viewed in web browsers
@@ -264,10 +272,11 @@ warning, usually indicating that it is unsafe
 #### Daily Video 5.6 Daily Video 3
 
 Key Terms:  
+
 **Phishing**: An attempt to trick a user into providing personal information, like your usernames and
 passwords, account numbers, or social security numbers.
 
-*Keylogger*: Records every keystroke made by a user in order to gain fraudulent access to
+**Keylogger**: Records every keystroke made by a user in order to gain fraudulent access to
 passwords or other confidential information.
 
 *Rogue Access Point*: A wireless network that can give unauthorized access to secure networks.
