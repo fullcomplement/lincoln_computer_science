@@ -51,6 +51,8 @@ TIK TOK PSA(“you’ve been scrolling for too long guy”) (Mariela)
 Dopamine is a chemical that makes you feel good when you win which keeps you
 wanting to play more.
 
+![dopamine feedback loop](https://digitash.com/wp-content/uploads/2018/02/how-dopamine-driven-feedback-loops-work.jpg)
+
 ## Daily Video 5.2 - Digital Divide
 
 **The digital “divide”** refers to differing access to computing devices and the
