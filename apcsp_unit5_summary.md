@@ -37,12 +37,13 @@ and purpose to fulfill but this purpose can also be taken multiple steps
 further. With that, their creation can be used in a way they never intended it
 to do. For example, the internet was created for scientists but is now used by
 almost everyone in the world for entertainment or work, but this could cause
-anxiety or depression which the creator did not intend.  Microtransactions have
-also been created in which people can purchase in-game currency. This could have
-negative consequences such as developing a gambling addiction or a loss of a
-large amount of money.
+anxiety or depression which the creator did not intend.  
 
-Microtransaction are trades inside games where you trade real life money for
+Microtransactions have also been created in which people can purchase in-game currency. 
+This could have negative consequences such as developing a gambling addiction or a loss
+of a large amount of money.
+
+**Microtransactions** are trades inside games where you trade real life money for
 in-game currency, cosmetics, or powerups.
 
 Web applications cause dopamine feedback loops, depression, anxiety, etc.. think
@@ -77,7 +78,7 @@ Computing innovations can reflect existing human *biases* because of biases
 written into the algorithms or biases in the data used by the innovation.
 Programmers should take action to reduce bias in algorithms used for computing
 innovations as a way of combating existing human biases. Biases can be embedded
-at all levels of software development. Computing innovations can refelct
+at all levels of software development. Computing innovations can reflect
 existing human biases because of biases written into the algorithms or biases in
 the data used by the innovation.
 
