@@ -116,17 +116,22 @@ Debatable Questions about computing bias:
 
 This video summarizes the widespread access and benefits to information and
 public data. Some examples of **public data sets** available can be Kaggle, Google
-Public Datasets, Data.gov, and your local government. Distributed Computing is a
-method that donates spare computing power to help calculations. 
+Public Datasets, Data.gov, and your local government. 
+
+**Public data sets** provide widespread access to data and information and that
+those public data sets facilitate the identification of problems, solutions, and
+dissemination of results. 
+
+Distributed Computing is a method that donates spare computing power to help calculations. 
 
 An example of **distributed computing** is a Stanford experiment named
 Folding@Home which helps out with discovering protein folding. 
 
-Examples of **crowdsourcing** are Spotify (collaborative playlists), Kickstarter,
-concert tickets, bitcoin, etc.
-
 **Crowdsourcing** - A method of obtaining information by enlisting the services of
 a large number of people through the internet
+
+Examples of **crowdsourcing** are Spotify (collaborative playlists), Kickstarter,
+concert tickets, bitcoin, etc.
 
 Some innovations that have come from crowdsourcing are things like Spotify,
 their collaborative playlists feature, their algorithm, and the metadata write
@@ -136,10 +141,6 @@ cause, like Kickstarter and IndieGoGo.
 
 **Blockchain** - A network of computers called nodes which all have the same
 history of transactions so the database is spread across the whole network
-
-**Public data sets** provide widespread access to data and information and that
-those public data sets facilitate the identification of problems, solutions, and
-dissemination of results. 
 
 ## Daily Video 5.5 - Ethical and Legal Concerns
 
