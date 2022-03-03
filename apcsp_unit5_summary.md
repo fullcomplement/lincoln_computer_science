@@ -3,14 +3,15 @@
 
 ### Daily Video 1
 
-Summary: Innovations or new technology discoveries through computer programming
+Summary:  
+Innovations or new technology discoveries through computer programming
 can both bring benefits and harm to the world. The way things are done is often
 changed based upon those innovations. Not every outcome of a programmer's
 creation will be thought out but how it's received will be different from person
 to person. Innovations in the world of computing often bring changes to other
 places in the world as well such as in health or art.  
 
-Examples:
+Examples:  
 *Multirotor*  
 Harmful effects: flying in unregulated zones is illegal and dangerous, privacy
 concerns Benefits: deliveries, find lost people, aerial photography made easier
@@ -23,7 +24,8 @@ Harmful Effects: Broken TVs and injuries
 
 Key Terms: Internet, Dopamine, Social Media, Microtransaction,
 
-Summary: When a programmer creates things, they often have an intended audience
+Summary:  
+When a programmer creates things, they often have an intended audience
 and purpose to fulfill but this purpose can also be taken multiple steps
 further. With that, their creation can be used in a way they never intended it
 to do. For example, the internet was created for scientists but is now used by
@@ -32,11 +34,9 @@ anxiety or depression which the creator did not intend.  Microtransactions have
 also been created in which people can purchase in-game currency. This could have
 negative consequences such as developing a gambling addiction or a loss of a
 large amount of money.
-(Elvis)
 
 Microtransaction are trades inside games where you trade real life money for
 in-game currency, cosmetics, or powerups.
-(Ryan)
 
 Web applications cause dopamine feedback loops, depression, anxiety, etc.. think
 TIK TOK PSA(“you’ve been scrolling for too long guy”) (Mariela)
@@ -60,16 +60,17 @@ rather than one side of the group having an advantage compared to the rest.
 
 ## Daily Video 5.3 - Computing Bias
 
-Computing innovations can reflect existing human biases becaause of biases
+**Computing Bias**: computing innovations can reflect existing human biases
+written into the algorithms or biases in the data used by the innovations.  Bias
+is the personal feelings or prejudices of the people making the innovation.
+
+Computing innovations can reflect existing human *biases* because of biases
 written into the algorithms or biases in the data used by the innovation.
 Programmers should take action to reduce bias in algorithms used for computing
 innovations as a way of combating existing human biases. Biases can be embedded
 at all levels of software development. Computing innovations can refelct
 existing human biases because of biases written into the algorithms or biases in
 the data used by the innovation.
-
-**Computing Bias**: computing innovations can reflect existing human biases
-written into the algorithms or biases in the data used by the innovations
 
 Programmers should take action to reduce bias in algorithms used for computing
 innovations as a way of combating existing human biases
@@ -89,11 +90,12 @@ innovations to eliminate bias
 
 - Catered to certain audiences (YouTube Kids vs. TikTok vs. Facebook)
 
-Debatable Questions about computing bias:
+Debatable Questions about computing bias:  
 1. Enhancing or intentionally excluding?
 2. Intentionally harmful/hateful?
 3. Receiving feedback from a wide variety of people?
-4. Google Home / Amazon Echo
+4. Google Home / Amazon Echo  
+
     Alexa/Echo: addressing bias towards native American/English accents by
     implementing more languages, and foreign accent recognition
 
@@ -131,8 +133,7 @@ dissemination of results.
 This video is about the legal and ethical concerns of computing. Some of these
 concern stems from others copying original work and presenting it as their own.
 
-Key Terms:
-
+Key Terms:   
 **Intellectual Property**: A work or invention that is the result of creativity
 which the one who created it has a right to.
 
@@ -179,10 +180,10 @@ someone; social security number, age, race, credit card information
    - Search engines maintain a history of what you search; you history is used to suggest
     other websites (targeted ads)
 
-**Search engines** like Google
-○ Collect a history of what you search
-○ Suggests other websites that the user may show interests in
-○ Can even collect your current locations
+**Search engines** like Google  
+- Collect a history of what you search
+- Suggests other websites that the user may show interests in
+- Can even collect your current locations
 
 Pros and Cons (PII)  
 - Can be used to enhance a user’s online experience
@@ -196,10 +197,9 @@ everything you do digitally.
 
 #### Authentication measures
 
-Protect devices and information from unauthorized access
-Strong passwords
-10 or more characters
- Contain symbol, number, both lowercase and uppercase
+- Protect devices and information from unauthorized access
+- Strong passwords
+ -10 or more characters - Contain symbol, number, both lowercase and uppercase
 letters
 
 #### Multi-factor authentication
@@ -207,15 +207,17 @@ letters
 - Based off of passwords, answers to security questions,
 what you are, and biometric data (eye scan, palm print,
 thumbprint, or a keycard)
+
 - Ex.) When you enter a password on your computer and it
 sends a notification to your phone for your fingerprint to
 gain another level of authentication and security
 
 #### Virus and Malware
 
-Key Terms:
+Key Terms:  
 **Virus**: Malicious programs that copy themselves and gain access
 to systems without authorization
+
 **Malware**: often intended to damage a computing system or take
 partial authority over operation
 
@@ -231,8 +233,7 @@ Once legitimate access to a system is gained, it is important to
 ensure data sent to and from the system remains
 uncompromised
 
-Key Terms: 
-
+Key Terms:  
 **Encryption**: the process of encoding data to prevent
 unauthorized access
 
@@ -240,8 +241,9 @@ unauthorized access
 
 **Symmetric Encryption**: one key used to both encrypt and
 decrypt data
-    ● (ex.) Caesar Cipher)
-    ● Ex.) mjqqt → (5) hello
+
+   - (ex.) Caesar Cipher)
+   - Ex.) mjqqt → (5) hello
 
 **Asymmetric Encryption** (Public Key Encryption): uses two keys
 
@@ -261,8 +263,7 @@ warning, usually indicating that it is unsafe
 
 #### Daily Video 5.6 Daily Video 3
 
-Key Terms:
-
+Key Terms:  
 **Phishing**: An attempt to trick a user into providing personal information, like your usernames and
 passwords, account numbers, or social security numbers.
 
