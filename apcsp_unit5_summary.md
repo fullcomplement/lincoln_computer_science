@@ -49,7 +49,7 @@ Web applications cause dopamine feedback loops, depression, anxiety, etc.. think
 TIK TOK PSA(“you’ve been scrolling for too long guy”) (Mariela)
 
 Dopamine is a chemical that makes you feel good when you win which keeps you
-wanting to play more.
+wanting to play more or post more.
 
 ![dopamine feedback loop](https://digitash.com/wp-content/uploads/2018/02/how-dopamine-driven-feedback-loops-work.jpg)
 
